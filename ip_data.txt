@@ -1,47 +1,99 @@
 
 Windows IP Configuration
 
+   Host Name . . . . . . . . . . . . : LAPTOP-8H3M0IMM
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
 
 Ethernet adapter Ethernet:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 54-05-DB-B1-9B-73
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
 
 Ethernet adapter Ethernet 2:
 
    Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::1e79:bc40:cd65:a6ad%10
-   IPv4 Address. . . . . . . . . . . : 172.20.10.6
+   Description . . . . . . . . . . . : Apple Mobile Device Ethernet
+   Physical Address. . . . . . . . . : AA-51-AB-6B-DF-4F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::1e79:bc40:cd65:a6ad%10(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.20.10.6(Preferred) 
    Subnet Mask . . . . . . . . . . . : 255.255.255.240
+   Lease Obtained. . . . . . . . . . : ˜roda, 27 wrze˜nia 2023 15:40:12
+   Lease Expires . . . . . . . . . . : czwartek, 28 wrze˜nia 2023 15:40:12
    Default Gateway . . . . . . . . . : 172.20.10.1
+   DHCP Server . . . . . . . . . . . : 172.20.10.1
+   DHCPv6 IAID . . . . . . . . . . . : 715805099
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-27-57-B1-54-05-DB-B1-9B-73
+   DNS Servers . . . . . . . . . . . : 172.20.10.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
 
 Ethernet adapter Ethernet 3:
 
    Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::8b19:15c3:2683:6416%9
-   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-09
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::8b19:15c3:2683:6416%9(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 772407335
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-27-57-B1-54-05-DB-B1-9B-73
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
 
 Wireless LAN adapter Wi-Fi:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX200 160MHz
+   Physical Address. . . . . . . . . : 18-26-49-2C-74-D7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
 
 Wireless LAN adapter Poˆ¥czenie lokalne* 9:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 18-26-49-2C-74-D8
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
 
 Wireless LAN adapter Poˆ¥czenie lokalne* 10:
 
    Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::c4f1:256e:45:7622%20
-   IPv4 Address. . . . . . . . . . . : 192.168.137.1
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 1A-26-49-2C-74-D7
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c4f1:256e:45:7622%20(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.137.1(Preferred) 
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 270149193
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-27-57-B1-54-05-DB-B1-9B-73
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
 
 Ethernet adapter Poˆ¥czenie sieciowe Bluetooth:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 18-26-49-2C-74-DB
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
